@@ -41,4 +41,4 @@ def process_file(text):
     else:
         print("Подходящих чисел не найдено.")
 
-process_file(r'C:\Users\UserPC\Desktop\input\input.txt')
+process_file(r'C:\Users\UserPC\Desktop\text\text.txt')
